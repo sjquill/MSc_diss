@@ -11,7 +11,7 @@ Below are come comparison plots between the Concordance Index and Integrated Bri
 
 <img width="867" alt="Screenshot 2023-09-05 at 12 40 47" src="https://github.com/sjquill/MSc_diss/assets/117669752/60e6afdd-b35b-422e-8574-cf799198994a">
 
-<img width="840" alt="Screenshot 2023-09-05 at 12 41 06" src="https://github.com/sjquill/MSc_diss/assets/117669752/17e7c4b4-76f1-47fb-9fbe-694fbb7a1569">
+<img width="827" alt="Screenshot 2023-09-05 at 12 48 48" src="https://github.com/sjquill/MSc_diss/assets/117669752/26034bc6-70c2-447b-9785-81a777359b9e">
 
 
 Acknowledgements: This project was completed in partial fulfulment of the MSc in HDA & ML at Imperial College London. I would like to thank my supervisors at GSK, Drs. Paul Agapow & Dr. Andy Lawler for their supervision and guidance during this project. 
